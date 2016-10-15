@@ -1,0 +1,49 @@
+
+
+p {
+	font-weight: bold;
+	padding: 15px;
+}
+
+.thumbnail {
+	height: 350px;
+	border: 2px solid #d9d9d9;
+}
+
+h2 {
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#desno {
+	display: inline-block;
+}
+
+.container {
+	background-color: #d9d9d9;
+	padding-bottom: 30px;
+}
+
+.table-striped {
+	background-color: white;
+}
+
+.form-horizontal {
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 14px;
+}
+
+h4 {
+	color: #3eabc9;
+	font-weight: bold;
+}
+
+h3 {
+	text-align: left;
+}
+
+.kontakt {
+	padding-left: 40px;
+}
